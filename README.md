@@ -79,6 +79,12 @@ Commons Attribution 4.0 International licence (CC BY 4.0). See `LICENSE`.
 
 ## Citation
 
+Repository:
+<https://github.com/outrotim/vitaldb-timestamp-bias-audit>
+
+Version cited by the submitted manuscript: `v1.0.0`
+<https://github.com/outrotim/vitaldb-timestamp-bias-audit/releases/tag/v1.0.0>
+
 Manuscript citation: to be added after publication.
 
 Dataset citation:
