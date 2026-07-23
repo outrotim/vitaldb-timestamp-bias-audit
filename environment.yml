@@ -1,0 +1,15 @@
+name: study21-bis-hr-bias-audit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.9
+  - pip
+  - pip:
+      - aiohttp==3.12.4
+      - matplotlib==3.10.3
+      - numpy==2.2.6
+      - pandas==2.2.3
+      - pyarrow==20.0.0
+      - pytest==8.3.5
+      - scipy==1.17.1
+      - statsmodels==0.14.6
